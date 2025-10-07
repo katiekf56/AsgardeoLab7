@@ -4,8 +4,6 @@ import Footer from "./components/Footer";
 import Home from "./pages/Home";
 import Page2 from "./pages/Page2";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
-import "firebase/compat/auth";
-import "firebase/compat/firestore";
 
 function App() {
   return (
